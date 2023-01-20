@@ -1,0 +1,45 @@
+@font-face {
+  font-family: "NinjaNaruto";
+  src: url(fonts/NinjaNaruto-YOn4.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "NinjaNaruto";
+  }
+
+  body {
+    padding: 24px;
+  }
+  
+  :root {
+    --padding: 1.25rem;
+    --black: #000000;
+    --white: #ffffff;
+    --dark-1: #1c1c1e;
+    --dark-2: #2c2c2e;
+    --dark-3: #3a3a3c;
+    --dark-4: #48484a;
+    --mid-1: #636366;
+    --mid-2: #8e8e93;
+    --mid-3: #aeaeb2;
+    --mid-4: #c7c7cc;
+    --light: #eeeeee;
+    --light-1: #d1d1d6;
+    --light-2: #e5e5ea;
+    --light-3: #f2f2f7;
+    --light-4: #fafafc;
+    --brand-pink: #ec008c;
+    --brand-purple: #81008c;
+    --brand-blue: #11245c;
+    --brand-nhpro: #ff7500;
+    --brand-v34: #440099;
+    --brand-ha5: #50c0e8;
+    --link: #007aff;
+    --success: #14C59D;
+    --error: #ff3b30;
+    --sale: #ec008c;
+    --shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
